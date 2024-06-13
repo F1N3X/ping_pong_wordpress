@@ -10,4 +10,4 @@ Next, you will have the oportunity to see a more detailed description of each pr
 
 ## Let's getting started
 
-Feel free to install this in your "themes" directory.
+Feel free to install this in your "themes" directory. 
